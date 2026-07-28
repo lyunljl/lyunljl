@@ -31,7 +31,7 @@ Hi! I study Data Science, Computer Science, and Math at Boston University. I am 
 | [BUDSA Club Website](https://bu-data-science-association.github.io/budsa/) | Sole Developer/Maintainer for BUDSA's Offical Website (currently in migration) |
 | [Cat Quibits!!!](https://github.com/lyunljl/2025-Alice-and-Bob) |  MIT iQuHack 2025 (2nd place) simulation/modeling of fault tolerant quantum cat qubits |
 | [CTRL + Rent](https://github.com/lyunljl/lyunljl-BUDSAxNYC-SCHOOL-of-DATA_Team-A) | Featured project at NYC School of Data Conference ... policy + predictive analysis |
-| [Comming Soon]() | I'm always working on something ... reach out if you wanna collab on something together :) |
+| [Coming Soon]() | I'm always working on something ... reach out if you wanna collab on something together :) |
 
 ---
 
