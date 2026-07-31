@@ -39,7 +39,7 @@ Hi! I study Data Science, Computer Science, and Math at Boston University. I am 
 
 **Languages:** Python, Rust, HTML/CSS, JavaScript, SQL, C#, Java, Shell/Bash
 
-**Data Science & Machine Learning:** PyTorch, TensorFlow/Keras, scikit-learn, Pandas, NumPy, Matplotlib
+**Data Science & Machine Learning:** PyTorch, TensorFlow/Keras, SciKit-Learn, Pandas, NumPy, Matplotlib
 
 **Libraries & Frameworks:** React, Next.js, Node.js, .NET, Beautiful Soup, Selenium
 
