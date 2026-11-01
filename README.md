@@ -15,8 +15,10 @@ Hi! I study Data Science, Computer Science, and Math at Boston University. I am 
 ---
 
 ## Highlighted Experience
+- **Software Engineering Intern** — BU-Spark: Software Developer for CivicChats Client
 - **Software Engineering Intern** — Humana Tech: I worked on enterprise software observability engineering services
 - **Software Engineering Intern** — Communiti: I worked on recommendation systems
+- **AI/ML Studio Fellow** — Accenture: Working on machine learning models for supply chain disruptions
 - **AI/ML Fellow** — Break Through Tech, AI/ML Fellow
 - **ML Research Assistant** — Green Laboratory, BUENG (Generative Adversarial Networks)
 - **Course Assistant** — DS122: Computational Probability & Statistics, BU
@@ -28,7 +30,7 @@ Hi! I study Data Science, Computer Science, and Math at Boston University. I am 
 | Project | Description |
 |---|---|
 | [ML Pain Detection](https://github.com/lyunljl/DS340-Project) | Inspired by Baymax ... an attempt to detect signs of human pain through audio classification |
-| [BUDSA Club Website](https://bu-data-science-association.github.io/budsa/) | Sole Developer/Maintainer for BUDSA's Offical Website (currently in migration) |
+| [BUDSA Club Website](https://budsa.vercel.app) | Sole Developer/Maintainer for BUDSA's Offical Website (currently in migration) |
 | [Cat Quibits!!!](https://github.com/lyunljl/2025-Alice-and-Bob) |  MIT iQuHack 2025 (2nd place) simulation/modeling of fault tolerant quantum cat qubits |
 | [CTRL + Rent](https://github.com/lyunljl/lyunljl-BUDSAxNYC-SCHOOL-of-DATA_Team-A) | Featured project at NYC School of Data Conference ... policy + predictive analysis |
 | [Coming Soon]() | I'm always working on something ... reach out if you wanna collab on something together :) |
